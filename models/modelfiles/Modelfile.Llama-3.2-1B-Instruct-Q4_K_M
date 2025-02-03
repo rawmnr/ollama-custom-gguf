@@ -1,0 +1,4 @@
+FROM /models/ggufs/Llama-3.2-1B-Instruct-Q4_K_M.gguf
+SYSTEM """
+"""
+PARAMETER num_ctx 4096
